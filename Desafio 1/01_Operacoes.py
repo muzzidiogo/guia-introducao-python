@@ -2,12 +2,15 @@
 
 a, b, c = map(int, input().split())
 
-print("")
+soma = a+b+c
+prod = a*b*c
+
+
+print(f"Soma: {soma}\nProduto: {prod}")
 
 # Escreva um programa que leia um número e apresente a raiz quadrada deste número.
-
 x = int(input("Entre  a number: "))
-
-print("")
+y = x**0.5
+print(f"Raíz quadrada de {x} = {y}")
 
 
