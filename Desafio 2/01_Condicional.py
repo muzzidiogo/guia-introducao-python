@@ -4,6 +4,7 @@
 # a comissão será de 9.5%. Em qualquer outro caso, a comissão será de 7%. 
 # Escreva um programa que calcule a comissão de um vendedor baseado no valor de suas vendas.
 
+
 valor_vendas = int(input("Valor do total de vendas: R$"))
 comissao = 0
 
