@@ -1,0 +1,1 @@
+A palavra "sir" foi escrita 9 vezes no arquivo "foo.txt"
